@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     @vite('resources/css/app.css')
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-    <title>Home Page</title>
+    <title>About Page</title>
 </head>
 <body class="h-full"> 
     <div class="min-h-full">
@@ -119,13 +119,13 @@
     
         <header class="bg-white shadow-sm">
         <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
-            <h1 class="text-3xl font-bold tracking-tight text-gray-900">Home Page</h1>
+            <h1 class="text-3xl font-bold tracking-tight text-gray-900">About Page</h1>
         </div>
         </header>
         <main>
         <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
             <!-- Your content -->
-            <h1>Welcome my Home Page</h1>
+            <h1>Hallo, saya Gilang!!</h1>
         </div>
         </main>
     </div>
