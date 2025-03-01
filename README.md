@@ -2,8 +2,6 @@
 
 **Gilang Purnomo** / **09** / **2341720042** / **TI-2A**
 
-<img src="https://upload.wikimedia.org/wikipedia/id/0/09/Logo_Politeknik_Negeri_Malang.png" alt="Politeknik Negeri Malang" width="150" align="right">
-
 ---
 
 ## Daftar Tugas
