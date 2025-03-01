@@ -1,16 +1,9 @@
-# PEMROGRAMAN WEB LANJUT - Semester 4
+<p align="center">
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+  </a>
+</p>
 
-**Gilang Purnomo** / **09** / **2341720042** / **TI-2A**
+# 📌 Proyek Laravel
 
----
-
-## Daftar Tugas
-
-| Pertemuan | Tugas                                                    | Link |
-|-----------|----------------------------------------------------------|------|
-| 1         | Instalasi Laravel                                        | [Minggu 1](https://github.com/Gilangp/Pemrograman_Web_Lanjut/tree/main/Minggu%201/Install_Laravel_10) |
-| 2         | · CRUD Sederhana <br> · PWL 2025 <br> · POS              | [Minggu 2](#) |
-| 3         | MIGRATION, SEEDER, DB FAÇADE, QUERY BUILDER, dan ELOQUENT ORM | [Minggu 3](#) |
-
-
----
+Selamat datang di proyek Laravel ini! 🚀 Proyek ini dibuat menggunakan **Laravel 10**, framework PHP yang powerful dan mudah digunakan untuk pengembangan aplikasi web.
