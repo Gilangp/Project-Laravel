@@ -6,13 +6,12 @@
 
 ## Daftar Tugas
 
-| Pertemuan | Tugas | Link |
-|----|---------|------|
-| 1 | Instalasi Laravel | [Minggu 1](https://github.com/Gilangp/Pemrograman_Web_Lanjut/tree/main/Minggu%201/Install_Laravel_10) |
-| 2 | - CRUD Sederhana | [P2_CRUD_Sederhana](https://github.com/Gilangp/Pemrograman_Web_Lanjut/commit/c97ddd45cec0312e766e4f8f56ca22e353b63467) |
-|   | - ROUTING, CONTROLLER, DAN VIEW (PWL_2025) | [PWL_2025](#) |
-|   | - Soal-POS | [POS](#) |
-| 3 | MIGRATION, SEEDER, DB FAÇADE, QUERY BUILDER, dan ELOQUENT ORM | [Week 3](#) |
+| Pertemuan | Tugas                                                    | Link |
+|-----------|----------------------------------------------------------|------|
+| 1         | Instalasi Laravel                                        | [Minggu 1](https://github.com/Gilangp/Pemrograman_Web_Lanjut/tree/main/Minggu%201/Install_Laravel_10) |
+| 2         | · CRUD Sederhana <br> · PWL 2025 <br> · POS              | [Minggu 2](#) |
+| 3         | MIGRATION, SEEDER, DB FAÇADE, QUERY BUILDER, dan ELOQUENT ORM | [Week 3](#) |
+
 
 ---
 
